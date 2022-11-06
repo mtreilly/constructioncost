@@ -31,7 +31,7 @@
     Exploration of the streamlit tool, using pricing data from 
     https://data.gov.ie/
     <br />
-    <a href="https://github.com/mtreilly/constructioncost">View Demo</a>
+    <a href="https://mtreilly-constructioncost-streamlit-app-byz81p.streamlit.app/">View Demo</a>
     ·
     <a href="https://github.com/mtreilly/constructioncost/issues">Report Bug</a>
     ·

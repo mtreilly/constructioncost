@@ -7,6 +7,9 @@ name = "pypi"
 streamlit = "*"
 pandas = "*"
 mypy = "*"
+typing-extensions = "*"
+pandas-profiling = "*"
+streamlit-pandas-profiling = "*"
 
 [dev-packages]
 
